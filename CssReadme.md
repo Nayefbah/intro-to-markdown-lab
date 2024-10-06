@@ -51,4 +51,4 @@ p {
 ```
 
 For the full article please visit
-You can read more and th learn beginners' HTML in [W3Schools](https://www.w3schools.com/CSS/default.asp)
+You can read more and th learn beginners' CSS in [W3Schools](https://www.w3schools.com/CSS/default.asp)
